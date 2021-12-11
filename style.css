@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.title {
+ transition: 0.3s;
+ text-align: center;
+ font-family: 'Poppins', sans-serif;
+ font-size: 30px;
+}
+
+.title:hover {
+ transition: 0.3s;
+ text-align: center;
+ font-family: 'Poppins', sans-serif;
+ font-size: 40px;
+}
