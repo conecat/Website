@@ -1,1 +1,1 @@
-console.log('Table?')
+console.log('Table?');
