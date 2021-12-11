@@ -5,8 +5,17 @@
  color: white;
  text-align: center;
  font-family: 'Poppins', sans-serif;
- font-size: 30px;
+ font-size: 40px;
 }
+
+.like {
+ transition: 0.3s;
+ color: white;
+ text-align: center;
+ font-family: 'Poppins', sans-serif;
+ font-size: 25px;
+}
+
 
 p {
  transition: 0.3s;
@@ -24,6 +33,13 @@ a {
  font-size: 20px;
 }
 
+a:hover {
+ transition: 0.3s;
+ color: white;
+ text-align: center;
+ font-family: 'Poppins', sans-serif;
+ font-size: 25px;
+}
 
 body {
   background-color: #121212;
